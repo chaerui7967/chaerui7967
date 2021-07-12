@@ -23,10 +23,10 @@
 
 
 ### Skill
-<img src="https://img.shields.io/badge/-python-brightgreen"> <img src="https://img.shields.io/badge/-sklearn-brightgreen">
-<img src="https://img.shields.io/badge/-Django-brightgreen">
-<img src="https://img.shields.io/badge/-HTML-brightgreen">
-<img src="https://img.shields.io/badge/-SQL-brightgreen">
-<img src="https://img.shields.io/badge/-R-brightgreen">
-<img src="https://img.shields.io/badge/-Java-brightgreen">
+[<img src="https://img.shields.io/badge/-python-brightgreen">](https://github.com/chaerui7967) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://github.com/chaerui7967)
+[<img src="https://img.shields.io/badge/-Django-brightgreen">](https://github.com/chaerui7967)
+[<img src="https://img.shields.io/badge/-HTML-brightgreen">](https://github.com/chaerui7967)
+[<img src="https://img.shields.io/badge/-SQL-brightgreen">](https://github.com/chaerui7967)
+[<img src="https://img.shields.io/badge/-R-brightgreen">](https://github.com/chaerui7967)
+[<img src="https://img.shields.io/badge/-Java-brightgreen">](https://github.com/chaerui7967)
 
