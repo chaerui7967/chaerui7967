@@ -23,8 +23,7 @@
 
 
 ### Skill
-<img src="https://img.shields.io/badge/-python-brightgreen">
-<img src="https://img.shields.io/badge/-sklearn-brightgreen">
+<img src="https://img.shields.io/badge/-python-brightgreen"> <img src="https://img.shields.io/badge/-sklearn-brightgreen">
 <img src="https://img.shields.io/badge/-Django-brightgreen">
 <img src="https://img.shields.io/badge/-HTML-brightgreen">
 <img src="https://img.shields.io/badge/-SQL-brightgreen">
