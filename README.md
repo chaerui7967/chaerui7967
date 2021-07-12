@@ -1,8 +1,6 @@
 ## Hello
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967)](https://solved.ac/rkskd7967)
 
 [![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)](https://github.com/chaerui7967)
 
