@@ -23,5 +23,4 @@
 
 
 ### Skill
-<img align='right' src="https://img.shields.io/badge/-python-brightgreen">
-
+<img src="https://img.shields.io/badge/-python-brightgreen"><img src="https://img.shields.io/badge/-sklearn-brightgreen"><img src="https://img.shields.io/badge/-Django-brightgreen">
