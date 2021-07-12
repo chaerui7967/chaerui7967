@@ -18,7 +18,7 @@
 - 🔵 Game
 - 🍕 Pizza
 
-### Connect
+### Connect By
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
 
 
