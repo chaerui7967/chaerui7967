@@ -29,5 +29,6 @@
 [<img src="https://img.shields.io/badge/-SQL-brightgreen">](https://dev.mysql.com/doc/)
 [<img src="https://img.shields.io/badge/-R-brightgreen">](https://www.r-project.org/other-docs.html)
 [<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
+[<img src="https://img.shields.io/badge/-keras-brightgreen">](https://keras.io/ko/)
 
 
