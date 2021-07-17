@@ -8,8 +8,8 @@
 
 ## Who Am I
 
-- 🌱 I’m currently learning `sklearn`, `keras`, 'tensorflow', `Data Analysis`, `Algorithm`
-- 😂 I'll study 'Pytorch'
+- 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
+- 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering
 
 ### What I Like
