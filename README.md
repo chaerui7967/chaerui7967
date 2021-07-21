@@ -1,4 +1,4 @@
-## Hi
+## Hello
 
 [<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967">](https://solved.ac/profile/rkskd7967) 
 
