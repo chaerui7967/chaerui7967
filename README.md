@@ -1,5 +1,7 @@
 ## Hello
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chearui7967/TIL)
 [<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967">](https://solved.ac/profile/rkskd7967) 
 
 [![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)](https://github.com/chaerui7967)
