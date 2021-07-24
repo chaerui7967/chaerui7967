@@ -9,8 +9,6 @@
 [![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)](https://github.com/chaerui7967)
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)](https://github.com/chaerui7967)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/chaerui7967/)
-
 ## Who Am I
 
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
