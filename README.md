@@ -2,7 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/chaerui7967/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerui7967&count_bg=%2379C83D&title_bg=%23555555&icon=gofundme.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/chaerui7967/)
 
 
 [<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967">](https://solved.ac/profile/rkskd7967) 
@@ -26,9 +26,9 @@
 
 ### Connect By
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/chaerui7967/)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerui7967&count_bg=%2379C83D&title_bg=%23555555&icon=gofundme.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
