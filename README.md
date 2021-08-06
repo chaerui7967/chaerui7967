@@ -32,7 +32,8 @@
 
 ### Skill
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
-[<img src="https://img.shields.io/badge/-keras-brightgreen">](https://keras.io/ko/)
+[<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
+[<img src="https://img.shields.io/badge/-keras_en-brightgreen">](https://keras.io/api/)
 [<img src="https://img.shields.io/badge/-tensorflow-brightgreen">](https://github.com/tensorflow/tensorflow)
 [<img src="https://img.shields.io/badge/-Django-brightgreen">](https://www.djangoproject.com/)
 [<img src="https://img.shields.io/badge/-HTML-brightgreen">](https://devdocs.io/html/)
