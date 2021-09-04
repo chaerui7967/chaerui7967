@@ -2,7 +2,6 @@
 
 - 🥇 My current goal is Gold1.
 
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
 
@@ -10,6 +9,7 @@
 
 [![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)](https://github.com/chaerui7967)
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)](https://github.com/chaerui7967)
+
 
 
 ## Who Am I
