@@ -37,7 +37,7 @@
 [<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
 
 - 프로젝트 이미지 --출처 : 웰시코기 이광복씨
-![이광복씨](https://user-images.githubusercontent.com/85321888/136522504-3838a4da-f6e6-4749-8587-fa95c9c8806d.JPG)
+- ![이광복씨](https://user-images.githubusercontent.com/85321888/136522504-3838a4da-f6e6-4749-8587-fa95c9c8806d.JPG)
 
 
 
