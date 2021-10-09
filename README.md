@@ -1,4 +1,4 @@
-## Hi, I`m Chea gil-ho
+## Hi, I`m gil-ho,Chea
 My major is industrial engineering and my minor is computer engineering. I study Data science.
 
 [![Solved.ac
