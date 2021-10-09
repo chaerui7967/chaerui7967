@@ -24,9 +24,7 @@ My major is industrial engineering and my minor is computer engineering. I study
 - 🐶 Dog
 
 ### Career 
-| Type | Date | Contents | Organization |
-| Education | 2014.3 ~ 2021.2 | (major)Industrial engineering. (minor)computer engineering | sungkyul |
-| Education | 2021.5 ~ 2021.10 | K-Digital Data Scientist & Data Engineering | MultiCampus |
+![image](https://user-images.githubusercontent.com/85321888/136651433-be19f58a-ab47-443c-8d22-1da665435122.png)
 
 ### Connect By
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
