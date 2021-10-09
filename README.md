@@ -1,4 +1,5 @@
-## Hello
+## Hi, I`m Chea gil-ho
+My major is industrial engineering and my minor is computer engineering. I study Data science.
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
@@ -21,6 +22,11 @@
 - 🔵 Game
 - 🍕 Pizza
 - 🐶 Dog
+
+### Career 
+| Type | Date | Contents | Organization |
+| Education | 2014.3 ~ 2021.2 | (major)Industrial engineering. (minor)computer engineering | sungkyul |
+| Education | 2021.5 ~ 2021.10 | K-Digital Data Scientist & Data Engineering | MultiCampus |
 
 ### Connect By
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
