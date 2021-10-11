@@ -27,7 +27,6 @@
 ### Career 
 ![image](https://user-images.githubusercontent.com/85321888/136651433-be19f58a-ab47-443c-8d22-1da665435122.png)
 
-
 ### Connect By
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
 
