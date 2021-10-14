@@ -2,6 +2,7 @@
 
 #### <p align="center">My major is industrial engineering and my minor is computer engineering. I study Data science.</p>
 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
 
