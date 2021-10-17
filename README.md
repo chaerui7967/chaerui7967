@@ -1,8 +1,8 @@
 # <p align="center"> Hi, I`m gil-ho,Chea </p>
 #### <p align="center">My major is industrial engineering and my minor is computer engineering. I study Data science.</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
+[<p align="center">![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)</p>](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
 
 [<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967">](https://solved.ac/profile/rkskd7967) 
 
