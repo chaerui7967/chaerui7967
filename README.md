@@ -9,7 +9,7 @@
 [<p align="center">![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)</p>](https://github.com/chaerui7967)
 [<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
 
-## Who Am I
+## <p align="center"> Who Am I </p>
 
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
 - 😂 I'll study `Pytorch`
