@@ -16,7 +16,7 @@
 - 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering...
 
-### What I Like
+### <p align="center"> What I Like </p>
 
 - 🎥 movie
 - 📺 Drama
