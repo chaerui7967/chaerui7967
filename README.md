@@ -25,7 +25,7 @@
 - 🍕 Pizza
 - 🐶 Dog
 
-### Career 
+### <p align="center"> Career </p>
 ![image](https://user-images.githubusercontent.com/85321888/136651433-be19f58a-ab47-443c-8d22-1da665435122.png)
 
 ### Connect By
