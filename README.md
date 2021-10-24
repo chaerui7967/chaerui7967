@@ -25,10 +25,10 @@
 - 🍕 Pizza
 - 🐶 Dog
 
-### <p align="center"> Career </p>
+## <p align="center"> Career </p>
 ![image](https://user-images.githubusercontent.com/85321888/136651433-be19f58a-ab47-443c-8d22-1da665435122.png)
 
-### <p align="center"> Skill </p>
+## <p align="center"> Skill </p>
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
 [<img src="https://img.shields.io/badge/-keras_en-brightgreen">](https://keras.io/api/)
@@ -39,7 +39,7 @@
 [<img src="https://img.shields.io/badge/-R-brightgreen">](https://www.r-project.org/other-docs.html)
 [<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
 
-### <p align="center"> Connect By </p>
+## <p align="center"> Connect By </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
 
 - 프로젝트 이미지 --출처 : 웰시코기 이광복씨
