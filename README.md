@@ -27,9 +27,11 @@
 - 🐶 Dog
 
 ## <p align="center"> Career </p>
+
 ![image](https://user-images.githubusercontent.com/85321888/136651433-be19f58a-ab47-443c-8d22-1da665435122.png)
 
 ## <p align="center"> Skill </p>
+
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
 [<img src="https://img.shields.io/badge/-keras_en-brightgreen">](https://keras.io/api/)
