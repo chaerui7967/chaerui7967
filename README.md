@@ -39,9 +39,10 @@
 
 ## <p align="center"> Career </p>
 
-| Header One | Header Two | Header Three | Header Four |
+| Type | Date | Contents | Organization |
 | ---------- | :--------- | :----------: | ----------: |
-| Default | Left | Center | Right |
+| Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
+| Education | 2021.5 ~ 2021.10 | 
 
 
 ## <p align="center"> Connect By </p>
