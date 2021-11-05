@@ -43,7 +43,7 @@
 | ---------- | :--------- | :----------: | ----------: |
 | Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
 | Education | 2021.5 ~ 2021.10 | K-Digital Data Scientist & Data Engineering | MultiCampus |
-| 
+| Work | 2021.11 ~ (Now) | AI ML engineer | bogonets |
 
 
 ## <p align="center"> Connect By </p>
