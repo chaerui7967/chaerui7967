@@ -1,6 +1,7 @@
 # <p align="center"> Hi, I`m gil-ho,Chea </p>
 
 #### <p align="center">My major is industrial engineering and my minor is computer engineering. I study Data science.</p>
+
 <p> -- </p>
 
 [<p align="center">![Solved.ac
