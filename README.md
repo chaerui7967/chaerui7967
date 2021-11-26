@@ -11,6 +11,7 @@
 
 ## <p align="center"> Who Am I </p>
 
+
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
 - 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering...
