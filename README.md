@@ -10,8 +10,6 @@
 [<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
 
 ## <p align="center"> Who Am I </p>
-
-
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
 - 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering...
