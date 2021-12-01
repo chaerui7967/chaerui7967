@@ -39,6 +39,7 @@
 
 ## <p align="center"> Career </p>
 
+
 | Type | Date | Contents | Organization |
 | ---------- | :--------- | :----------: | ----------: |
 | Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
