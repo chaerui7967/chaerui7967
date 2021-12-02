@@ -2,7 +2,6 @@
 
 #### <p align="center">My major is industrial engineering and my minor is computer engineering. I study Data science.</p>
 
-
 [<p align="center">![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)</p>](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
 
@@ -40,7 +39,6 @@
 
 ## <p align="center"> Career </p>
 
-
 | Type | Date | Contents | Organization |
 | ---------- | :--------- | :----------: | ----------: |
 | Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
@@ -49,4 +47,6 @@
 
 ## <p align="center"> Connect By </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
+
+
 
