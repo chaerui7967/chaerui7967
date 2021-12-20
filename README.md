@@ -12,6 +12,7 @@
 
 ## <p align="center"> Who Am I </p>
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`
+- 🌱 I’m currently learning 'Image detection'
 - 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering...
 - **프로젝트 이미지 --출처 : 웰시코기 이광복씨**
