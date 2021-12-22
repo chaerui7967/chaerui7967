@@ -26,7 +26,6 @@
 - 🍕 Pizza
 - 🐶 Dog
 
-
 ## <p align="center"> Skill </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
@@ -49,4 +48,6 @@
 
 ## <p align="center"> Connect By </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
+
+
 
