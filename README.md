@@ -26,6 +26,7 @@
 - 🍕 Pizza
 - 🐶 Dog
 
+
 ## <p align="center"> Skill </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
