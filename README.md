@@ -1,4 +1,4 @@
-# <p align="center"> Hi, I`m gil-ho,Chea </p>
+# <p align="center"> Hi!, I`m gil-ho,Chea </p>
 
 #### <p align="center">My major is industrial engineering and my minor is computer engineering. I study Data science.</p>
 
@@ -49,6 +49,4 @@
 
 ## <p align="center"> Connect By </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
-
-
 
