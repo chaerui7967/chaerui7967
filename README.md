@@ -38,7 +38,7 @@
 [<img src="https://img.shields.io/badge/-R-brightgreen">](https://www.r-project.org/other-docs.html)
 [<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
 
-## <p align="center"> Career </p>
+## <p align="center"> @ Career @ </p>
 
 | Type | Date | Contents | Organization |
 | ---------- | :--------- | :----------: | ----------: |
@@ -49,7 +49,3 @@
 
 ## <p align="center"> Connect By </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
-
-
-
-
