@@ -1,4 +1,4 @@
-# <p align="center">@@ Hi!, I`m gil-ho, Chea !@@</p>
+# <p align="center">@@ Hi!, I`m gil-ho, Chea @@</p>
 
 #### <p align="center"> @ My major is industrial engineering and my minor is computer engineering. I study Data science. @</p>
 
@@ -26,7 +26,7 @@
 - 🍕 Pizza
 - 🐶 Dog
 
-## <p align="center"> Skill </p>
+## <p align="center"> @ Skill @ </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
