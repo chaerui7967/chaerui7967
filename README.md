@@ -44,8 +44,8 @@
 | ---------- | :--------- | :----------: | ----------: |
 | Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
 | Education | 2021.5 ~ 2021.10 | K-Digital Data Scientist & Data Engineering | MultiCampus |
-| Intern | 2021.11.15 ~ 2022.2 | AI ML engineer | bogonets |
-| Work | 2022~ | AI ML engineer | bogonets |
+| Intern | 2021.11.15 ~ 2022.2.15 | AI ML engineer | bogonets |
+| Work | 2022 ~ | AI ML engineer | bogonets |
 
 ## <p align="center"> @ Connect By @ </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
