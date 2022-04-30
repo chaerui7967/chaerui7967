@@ -25,6 +25,7 @@
 - 🔵 Game
 - 🍕 Pizza
 - 🐶 Dog
+- Game
 
 ## <p align="center"> ! Skills ! </p>
 
