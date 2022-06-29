@@ -10,7 +10,7 @@
 [<p align="center">![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)</p>](https://github.com/chaerui7967)
 [<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
 
-## <p align="center">!! @ Who Am I @ !!</p>
+## <p align="center">@ Who Am I @</p>
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`!
 - 🌱 I’m currently learning 'Image detection'
 - 😂 I'll study `Pytorch`
@@ -18,7 +18,7 @@
 - **~#프로젝트 이미지 --출처 : 웰시코기 이광복씨#**
 - ![이광복씨](https://user-images.githubusercontent.com/85321888/136522504-3838a4da-f6e6-4749-8587-fa95c9c8806d.JPG)
 
-## <p align="center">@! What I Like </p>
+## <p align="center">! What I Like </p>
 
 - 🎥 movie
 - 📺 Drama
@@ -27,7 +27,7 @@
 - 🐶 Dog
 - 🎮 Game
 
-## <p align="center"> ! Skills @! </p>
+## <p align="center"> ! Skills ! </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
