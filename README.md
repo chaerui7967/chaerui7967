@@ -1,6 +1,6 @@
 # <p align="center"> Hi.., ``I`m gil-ho, Chea..`` </p>
 
-#### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science~~..`` </p>
+#### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science..`` </p>
 
 [<p align="center">![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)</p>](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
@@ -10,7 +10,7 @@
 [<p align="center">![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)</p>](https://github.com/chaerui7967)
 [<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
 
-## <p align="center">@ ``Who Am I`` ##</p>
+## <p align="center">@ ``Who Am I..`` ##</p>
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`!
 - 🌱 I’m currently learning 'Image detection'
 - 😂 I'll study `Pytorch`
