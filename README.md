@@ -1,4 +1,4 @@
-# <p align="center"> ``Hi, I`m gil-ho, Chea~`` </p>
+# <p align="center"> ``Hi, I`m gil-ho, Chea`` </p>
 
 #### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science..`` </p>
 
@@ -39,7 +39,7 @@
 [<img src="https://img.shields.io/badge/-R-brightgreen">](https://www.r-project.org/other-docs.html)
 [<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
 
-## <p align="center"> ``Career..`` </p>
+## <p align="center"> ``..Career..`` </p>
 
 | Type | Date | Contents | Organization |
 | ---------- | :--------- | :----------: | ----------: |
