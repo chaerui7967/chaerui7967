@@ -11,9 +11,8 @@
 [<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
 
 ## <p align="center">@ ``Who Am I..`` ##</p>
-- 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`!
+- 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`, `Pytorch`!
 - 🌱 I’m currently learning 'Image detection'
-- 😂 I'll study `Pytorch`
 - 🥇 I majored in industrial engineering, minored in computer engineering...
 - **~#프로젝트 이미지 --출처 : 웰시코기 이광복씨#**
 - ![이광복씨](https://user-images.githubusercontent.com/85321888/136522504-3838a4da-f6e6-4749-8587-fa95c9c8806d.JPG)
