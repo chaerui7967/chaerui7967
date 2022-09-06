@@ -1,6 +1,6 @@
 # <p align="center"> ``Hi, I`m gil-ho, Chea...`` </p>
 
-#### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science....`` </p>
+#### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science..`` </p>
 
 [<p align="center">![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)</p>](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
@@ -26,7 +26,7 @@
 - 🐶 Dog
 - 🎮 Game
 
-## <p align="center"> ``Skills``  </p>
+## <p align="center"> ``Skills..``  </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
