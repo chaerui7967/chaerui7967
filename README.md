@@ -1,4 +1,4 @@
-# <p align="center"> ``Hi!, I`m gil-ho, Chea....`` </p>
+# <p align="center"> ``Hi!, I`m gil-ho, Chea`` </p>
 
 #### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science..`` </p>
 
@@ -26,7 +26,7 @@
 - 🐶 Dog
 - 🎮 Game
 
-## <p align="center"> ``..Skills....``  </p>
+## <p align="center"> ``..Skills..``  </p>
 
 [<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
 [<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
@@ -47,5 +47,5 @@
 | Intern | 2021.11.15 ~ 2022.2.15 | AI ML engineer | bogonets |
 | Work | 2022.2.16 ~ | AI ML engineer | bogonets |
 
-## <p align="center">  ``Connect By..`` </p>
+## <p align="center">  ``..Connect By..`` </p>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
