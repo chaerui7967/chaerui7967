@@ -15,8 +15,17 @@
 <tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th></tr>
 <tr><td>2026 – present <sub>(1개월차)</sub></td><td>Data Analyst, Cyber Investigation Support Team</td><td>National Election Commission</td></tr>
 <tr><td>2021 – 2025 <sub>(3년 7개월)</sub></td><td>Software Engineer, R&amp;D (Assistant Manager)</td><td>bogonets</td></tr>
-<tr><td>2021 <sub>(100일)</sub></td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
-<tr><td>2014 – 2021 <sub>(6년 11개월)</sub></td><td>B.S. Industrial Engineering, Minor Computer Engineering</td><td>Sungkyul University</td></tr>
+</table>
+
+<br>
+
+<h3 align="center">Education</h3>
+
+<table align="center">
+<tr><th></th><th align="left">Education</th></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23e8c887"/></td><td>B.S. Industrial Engineering <sub>(Minor: Computer Engineering)</sub></td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23e8c887"/></td><td>B.S. Computer Engineering</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:book-open.svg?color=%23e8c887"/></td><td>K-Digital Data Scientist &amp; Data Engineering</td></tr>
 </table>
 
 <br>
