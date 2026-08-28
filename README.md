@@ -13,11 +13,11 @@
 
 <table align="center">
 <tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th></tr>
-<tr><td>2026 – present</td><td>Data Analyst, Cyber Investigation Division</td><td>National Election Commission</td></tr>
-<tr><td>2022 – 2025</td><td>Deep Learning &amp; SW Engineer, R&amp;D</td><td>bogonets</td></tr>
-<tr><td>2021 – 2022</td><td>Deep Learning &amp; SW Engineer, R&amp;D (Intern)</td><td>bogonets</td></tr>
-<tr><td>2021</td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
-<tr><td>2014 – 2021</td><td>B.S. Industrial Engineering, Minor Computer Engineering</td><td>Sungkyul University</td></tr>
+<tr><td>2026 – present <sub>(1개월차)</sub></td><td>Data Analyst, Cyber Investigation Division</td><td>National Election Commission</td></tr>
+<tr><td>2022 – 2025 <sub>(3년 4개월)</sub></td><td>Deep Learning &amp; SW Engineer, R&amp;D</td><td>bogonets</td></tr>
+<tr><td>2021 – 2022 <sub>(3개월)</sub></td><td>Deep Learning &amp; SW Engineer, R&amp;D (Intern)</td><td>bogonets</td></tr>
+<tr><td>2021 <sub>(5개월)</sub></td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
+<tr><td>2014 – 2021 <sub>(6년 11개월)</sub></td><td>B.S. Industrial Engineering, Minor Computer Engineering</td><td>Sungkyul University</td></tr>
 </table>
 
 <br>
@@ -32,6 +32,12 @@
 <img src="https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=mysql&logoColor=e8c887"/>
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=e8c887"/>
 <img src="https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=e8c887"/>
+</p>
+<p align="center">
+<sub>+ light exposure to</sub><br>
+<img src="https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1a1a2e?style=flat-square&logo=cplusplus&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=e8c887"/>
 </p>
 
 <br>
