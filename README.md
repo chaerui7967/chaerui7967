@@ -1,58 +1,56 @@
-# <p align="center"> ``Hi, I`m gil-ho, Chea`` </p>
-
-#### <p align="center"> ``My major is industrial engineering and my minor is computer engineering.. I study Data science`` </p>
-
-[<p align="center">![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkskd7967)</p>](https://github.com/chaerui7967/Today_I_Learned/tree/master/Baekjoon)
-
-[<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967"></p>](https://solved.ac/profile/rkskd7967)
-
 <p align="center">
-  <a href="https://github.com/chaerui7967">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=chaerui7967&show_icons=true" alt="chaerui7967's GitHub stats" />
-  </a>
-  <a href="https://github.com/chaerui7967">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaerui7967&layout=compact" alt="Top Langs" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=140&section=header&text=Gil-ho%20Chae&fontColor=e8c887&fontSize=38&fontAlignY=45&desc=Data%20Analyst,%20Cyber%20Investigation%20Division%20·%20NEC&descAlignY=68&descColor=9a9a9a&fontAlign=50&animation=fadeIn" width="100%"/>
 </p>
 
-## <p align="center">@ ``Who Am I`` ##</p>
-- 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`, `Pytorch`!
-- 🌱 I’m currently learning 'Image detection'
-- 🥇 I majored in industrial engineering, minored in computer engineering
-- **프로젝트 이미지 --출처 : 웰시코기 이광복씨**
-- ![이광복씨](https://user-images.githubusercontent.com/85321888/136522504-3838a4da-f6e6-4749-8587-fa95c9c8806d.JPG)
+<p align="center">
+  <sub>Industrial Engineering → Deep Learning R&D → Data Analysis</sub><br>
+  <sub>Preparing for the 정보보안기사 (Information Security Engineer) certification</sub>
+</p>
 
-## <p align="center"> ``What I Like`` </p>
+<br>
 
-- 🎥 movie
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
-- 🐶 Dog
-- 🎮 Game
+<h3 align="center">Career</h3>
 
-## <p align="center"> ``Skills``  </p>
+<table align="center">
+<tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th></tr>
+<tr><td>2026 – present</td><td>Data Analyst, Cyber Investigation Division</td><td>National Election Commission</td></tr>
+<tr><td>2022 – 2025</td><td>Deep Learning &amp; SW Engineer, R&amp;D</td><td>bogonets</td></tr>
+<tr><td>2021 – 2022</td><td>Deep Learning &amp; SW Engineer, R&amp;D (Intern)</td><td>bogonets</td></tr>
+<tr><td>2021</td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
+<tr><td>2014 – 2021</td><td>B.S. Industrial Engineering, Minor Computer Engineering</td><td>Sungkyul University</td></tr>
+</table>
 
-[<img src="https://img.shields.io/badge/-python-brightgreen">](https://docs.python.org/ko/3/) [<img src="https://img.shields.io/badge/-sklearn-brightgreen">](https://www.kite.com/python/docs/sklearn)
-[<img src="https://img.shields.io/badge/-keras_ko-brightgreen">](https://keras.io/ko/)
-[<img src="https://img.shields.io/badge/-keras_en-brightgreen">](https://keras.io/api/)
-[<img src="https://img.shields.io/badge/-tensorflow-brightgreen">](https://github.com/tensorflow/tensorflow)
-[<img src="https://img.shields.io/badge/-Django-brightgreen">](https://www.djangoproject.com/)
-[<img src="https://img.shields.io/badge/-HTML-brightgreen">](https://devdocs.io/html/)
-[<img src="https://img.shields.io/badge/-SQL-brightgreen">](https://dev.mysql.com/doc/)
-[<img src="https://img.shields.io/badge/-R-brightgreen">](https://www.r-project.org/other-docs.html)
-[<img src="https://img.shields.io/badge/-Java-brightgreen">](https://docs.oracle.com/javase/7/docs/api/)
+<br>
 
-## <p align="center"> ``Career`` </p>
+<h3 align="center">Stack</h3>
 
-| Type | Date | Contents | Organization |
-| ---------- | :--------- | :----------: | ----------: |
-| Education | 2014.3 ~ 2021.2 | (Major) industrial engineering, (Minor) computer engineering | Sungkyul University |
-| Education | 2021.5 ~ 2021.10 | K-Digital Data Scientist & Data Engineering | MultiCampus |
-| Intern | 2021.11.15 ~ 2022.2.15 | Deep Learning & SW Engineer | bogonets (R&D Team) |
-| Work | 2022.2.16 ~ 2025.7.1 | Deep Learning & SW Engineer | bogonets (R&D Team) |
-| Work | 2026.7.20 ~          | Data Analyst | National Election Commission (NEC), Cyber Investigation Division |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=mysql&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=e8c887"/>
+<img src="https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=e8c887"/>
+</p>
 
-## <p align="center">  ``Connect By`` </p>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chaerui7967@gmail.com)
+<br>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=chaerui7967&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=e8c887&icon_color=e8c887&text_color=9a9a9a"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaerui7967&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=e8c887&text_color=9a9a9a"/>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/profile/rkskd7967"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967"/></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="mailto:chaerui7967@gmail.com"><img src="https://img.shields.io/badge/chaerui7967@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=e8c887"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:1a1a2e&height=60&section=footer" width="100%"/>
+</p>
