@@ -25,13 +25,13 @@
 
 <table align="center">
 <tr><th></th><th align="left">Certification</th><th align="left">Issuer</th><th align="left">Year</th></tr>
-<tr><td>🏅</td><td>빅데이터분석기사 <sub>(Big Data Analytics Engineer)</sub></td><td>한국데이터산업진흥원</td><td>2026</td></tr>
-<tr><td>🏅</td><td>한국사능력검정 1급</td><td>국사편찬위원회</td><td>2025</td></tr>
-<tr><td>🏅</td><td>SQLD</td><td>한국데이터산업진흥원</td><td>2024</td></tr>
-<tr><td>🏅</td><td>정보처리기사</td><td>한국산업인력공단</td><td>2021</td></tr>
-<tr><td>🏅</td><td>ADsP</td><td>한국데이터산업진흥원</td><td>2020</td></tr>
-<tr><td>🏅</td><td>컴퓨터활용능력 1급</td><td>대한상공회의소</td><td>2020</td></tr>
-<tr><td>🏅</td><td>품질경영기사</td><td>한국산업인력공단</td><td>2020</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23e8c887"/></td><td>빅데이터분석기사 <sub>(Big Data Analytics Engineer)</sub></td><td>한국데이터산업진흥원</td><td>2026</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:landmark.svg?color=%23e8c887"/></td><td>한국사능력검정 1급</td><td>국사편찬위원회</td><td>2025</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:database.svg?color=%23e8c887"/></td><td>SQLD</td><td>한국데이터산업진흥원</td><td>2024</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:cpu.svg?color=%23e8c887"/></td><td>정보처리기사</td><td>한국산업인력공단</td><td>2021</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:line-chart.svg?color=%23e8c887"/></td><td>ADsP</td><td>한국데이터산업진흥원</td><td>2020</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:monitor.svg?color=%23e8c887"/></td><td>컴퓨터활용능력 1급</td><td>대한상공회의소</td><td>2020</td></tr>
+<tr><td><img width="18" src="https://api.iconify.design/lucide:settings.svg?color=%23e8c887"/></td><td>품질경영기사</td><td>한국산업인력공단</td><td>2020</td></tr>
 </table>
 
 <br>
