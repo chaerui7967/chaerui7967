@@ -7,8 +7,14 @@
 
 [<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkskd7967"></p>](https://solved.ac/profile/rkskd7967)
 
-[<p align="center">![chaerui7967's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerui7967)</p>](https://github.com/chaerui7967)
-[<p align="center">![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=chaerui7967)</p>](https://github.com/chaerui7967)
+<p align="center">
+  <a href="https://github.com/chaerui7967">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=chaerui7967&show_icons=true" alt="chaerui7967's GitHub stats" />
+  </a>
+  <a href="https://github.com/chaerui7967">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaerui7967&layout=compact" alt="Top Langs" />
+  </a>
+</p>
 
 ## <p align="center">@ ``Who Am I`` ##</p>
 - 🌱 I’m currently learning `sklearn`, `keras`, `tensorflow`, `Data Analysis`, `Algorithm`, `Pytorch`!
