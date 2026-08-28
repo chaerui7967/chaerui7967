@@ -13,11 +13,25 @@
 
 <table align="center">
 <tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th></tr>
-<tr><td>2026 – present <sub>(1개월차)</sub></td><td>Data Analyst, Cyber Investigation Division</td><td>National Election Commission</td></tr>
-<tr><td>2022 – 2025 <sub>(3년 4개월)</sub></td><td>Deep Learning &amp; SW Engineer, R&amp;D</td><td>bogonets</td></tr>
-<tr><td>2021 – 2022 <sub>(3개월)</sub></td><td>Deep Learning &amp; SW Engineer, R&amp;D (Intern)</td><td>bogonets</td></tr>
-<tr><td>2021 <sub>(5개월)</sub></td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
+<tr><td>2026 – present <sub>(1개월차)</sub></td><td>Data Analyst, Cyber Investigation Support Team</td><td>National Election Commission</td></tr>
+<tr><td>2021 – 2025 <sub>(3년 7개월)</sub></td><td>Software Engineer, R&amp;D (Assistant Manager)</td><td>bogonets</td></tr>
+<tr><td>2021 <sub>(100일)</sub></td><td>K-Digital Data Scientist &amp; Data Engineering</td><td>MultiCampus</td></tr>
 <tr><td>2014 – 2021 <sub>(6년 11개월)</sub></td><td>B.S. Industrial Engineering, Minor Computer Engineering</td><td>Sungkyul University</td></tr>
+</table>
+
+<br>
+
+<h3 align="center">Certifications</h3>
+
+<table align="center">
+<tr><th></th><th align="left">Certification</th><th align="left">Issuer</th><th align="left">Year</th></tr>
+<tr><td>🏅</td><td>빅데이터분석기사 <sub>(Big Data Analytics Engineer)</sub></td><td>한국데이터산업진흥원</td><td>2026</td></tr>
+<tr><td>🏅</td><td>한국사능력검정 1급</td><td>국사편찬위원회</td><td>2025</td></tr>
+<tr><td>🏅</td><td>SQLD</td><td>한국데이터산업진흥원</td><td>2024</td></tr>
+<tr><td>🏅</td><td>정보처리기사</td><td>한국산업인력공단</td><td>2021</td></tr>
+<tr><td>🏅</td><td>ADsP</td><td>한국데이터산업진흥원</td><td>2020</td></tr>
+<tr><td>🏅</td><td>컴퓨터활용능력 1급</td><td>대한상공회의소</td><td>2020</td></tr>
+<tr><td>🏅</td><td>품질경영기사</td><td>한국산업인력공단</td><td>2020</td></tr>
 </table>
 
 <br>
