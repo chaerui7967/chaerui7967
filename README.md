@@ -13,7 +13,7 @@
 
 <table align="center">
 <tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th></tr>
-<tr><td>2026 – present <sub>(1개월차)</sub></td><td>Data Analyst, Cyber Investigation Support Team</td><td>National Election Commission</td></tr>
+<tr><td>2026 – present <sub>(계산중..)</sub></td><td>Data Analyst, Cyber Investigation Support Team</td><td>National Election Commission</td></tr>
 <tr><td>2021 – 2025 <sub>(3년 7개월)</sub></td><td>Software Engineer, R&amp;D (Assistant Manager)</td><td>bogonets</td></tr>
 </table>
 
